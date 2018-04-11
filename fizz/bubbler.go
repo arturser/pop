@@ -7,7 +7,7 @@ import (
 	"github.com/mattn/anko/vm"
 	"github.com/pkg/errors"
 
-	core "github.com/mattn/anko/builtins"
+	"github.com/mattn/anko/core"
 )
 
 type BubbleType int
